@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=NEX App (Zyneon Application)
+Exec=java -jar /usr/bin/nerofy/nexus-app/updater.jar
+Icon=/usr/bin/nerofy/nexus-app/icon.png
+Type=Application
+Categories=Game;
