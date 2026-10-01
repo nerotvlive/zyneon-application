@@ -141,6 +141,11 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projekte\Java\nex-app-test\application-main\src\deb" />
+    </key>
+  </component>
   <component name="RunManager" selected="Maven.build &amp; sign">
     <configuration name="run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.zyneonstudios.ApplicationMain" />
