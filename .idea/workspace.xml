@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eaacee0-ec5a-4ba2-a478-740c0d865789" name="Changes" comment="Update URLs, metadata, and resources to reflect rebranding and migration to Zyneon Apex.">
-      <change afterPath="$PROJECT_DIR$/application-main/src/deb/nex-app.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application-main/src/main/resources/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="8eaacee0-ec5a-4ba2-a478-740c0d865789" name="Changes" comment="Adjust badge label and update workspace.xml with recent file reference">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/deb/control/control" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/control/control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/deb/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/deb/nexus-app.desktop" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/nexus-app.desktop" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/deb/updater.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/main/resources/content.zip" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/resources/content.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/instances.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/instances.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/resources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/news/news.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,61 +36,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.2483473260611215" />
-      <entry key="MS500" value="2.562814314633598" />
-      <entry key="S2" value="3.8413324846172356" />
-      <entry key="S5" value="4.75582666403437" />
-      <entry key="S10" value="5.349282459759955" />
-      <entry key="S30" value="7.584897516365077" />
-      <entry key="S60" value="10.987415506417534" />
-      <entry key="M2" value="16.31072556267333" />
-      <entry key="M5" value="32.470232632902295" />
-      <entry key="M10" value="70.84936515617342" />
-      <entry key="M15" value="111.04003403032794" />
-      <entry key="M30" value="207.74982813551014" />
-      <entry key="H1" value="312.292886387776" />
-      <entry key="H2" value="393.9302799298835" />
-      <entry key="H4" value="445.76841725719436" />
-      <entry key="D1" value="496.06386977852793" />
-      <entry key="W1" value="505.4186669615191" />
+      <entry key="MS100" value="1.0228275765732333" />
+      <entry key="MS500" value="1.6304309095568077" />
+      <entry key="S2" value="2.4613530771034027" />
+      <entry key="S5" value="2.7604112566781605" />
+      <entry key="S10" value="2.8983651864016498" />
+      <entry key="S30" value="4.914150068368312" />
+      <entry key="S60" value="10.51801605718575" />
+      <entry key="M2" value="20.266264494843384" />
+      <entry key="M5" value="41.33105274232255" />
+      <entry key="M10" value="78.44297037163962" />
+      <entry key="M15" value="117.62411428915792" />
+      <entry key="M30" value="215.9451396657199" />
+      <entry key="H1" value="326.7068404607391" />
+      <entry key="H2" value="415.49193997816866" />
+      <entry key="H4" value="472.70299679060923" />
+      <entry key="D1" value="528.7487750882041" />
+      <entry key="W1" value="539.2271323963944" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="6.456052611140537E-130" />
-      <entry key="MS500" value="1.4520895906140287E-26" />
-      <entry key="S2" value="3.4713495945908646E-7" />
-      <entry key="S5" value="0.0026073500493523907" />
-      <entry key="S10" value="0.051062217434737316" />
-      <entry key="S30" value="0.3709937966115693" />
-      <entry key="S60" value="0.6095729096329079" />
-      <entry key="M2" value="0.8225572535090356" />
-      <entry key="M5" value="1.8102986074676537" />
-      <entry key="M10" value="4.978044315987248" />
-      <entry key="M15" value="8.288140597999572" />
-      <entry key="M30" value="15.059460936995377" />
-      <entry key="H1" value="20.991763649967698" />
-      <entry key="H2" value="25.011378786313728" />
-      <entry key="H4" value="27.368612246869723" />
-      <entry key="D1" value="29.540835921254466" />
-      <entry key="W1" value="29.933878705711617" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.317263679919688E-221" />
+      <entry key="S2" value="9.54981849711134E-56" />
+      <entry key="S5" value="9.817435281643106E-23" />
+      <entry key="S10" value="9.908297170373467E-12" />
+      <entry key="S30" value="2.1478293142343318E-4" />
+      <entry key="S60" value="0.01466703123478667" />
+      <entry key="M2" value="0.12759228521335644" />
+      <entry key="M5" value="0.8590402818427976" />
+      <entry key="M10" value="3.429181044313998" />
+      <entry key="M15" value="6.464647967042993" />
+      <entry key="M30" value="13.30005116185912" />
+      <entry key="H1" value="19.72744633207021" />
+      <entry key="H2" value="24.246474767920976" />
+      <entry key="H4" value="26.946865972653242" />
+      <entry key="D1" value="29.464474152486066" />
+      <entry key="W1" value="29.92281247333113" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1828024477768693" />
-      <entry key="MS500" value="2.536491882249534" />
-      <entry key="S2" value="3.8318383475522295" />
-      <entry key="S5" value="4.753796143661872" />
-      <entry key="S10" value="5.395599486571259" />
-      <entry key="S30" value="7.94887281436096" />
-      <entry key="S60" value="11.590927944514931" />
-      <entry key="M2" value="17.128447502069974" />
-      <entry key="M5" value="34.27189151637746" />
-      <entry key="M10" value="75.8108521816845" />
-      <entry key="M15" value="119.30834124610885" />
-      <entry key="M30" value="222.78978292198292" />
-      <entry key="H1" value="333.27033921961936" />
-      <entry key="H2" value="418.9328665638029" />
-      <entry key="H4" value="473.1321368984765" />
-      <entry key="D1" value="525.6038122637678" />
-      <entry key="W1" value="535.3524159923866" />
+      <entry key="MS100" value="0.9749935877012693" />
+      <entry key="MS500" value="1.6174905971051532" />
+      <entry key="S2" value="2.4567534900971104" />
+      <entry key="S5" value="2.758363004839145" />
+      <entry key="S10" value="2.8972930270662847" />
+      <entry key="S30" value="4.913786037975059" />
+      <entry key="S60" value="10.531964530717968" />
+      <entry key="M2" value="20.3926221177606" />
+      <entry key="M5" value="42.18571304216342" />
+      <entry key="M10" value="81.86058612097452" />
+      <entry key="M15" value="124.0731812253557" />
+      <entry key="M30" value="229.22790543669012" />
+      <entry key="H1" value="346.4208081620007" />
+      <entry key="H2" value="439.7298764377076" />
+      <entry key="H4" value="499.6450379895369" />
+      <entry key="D1" value="558.212356847803" />
+      <entry key="W1" value="569.149815061765" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -258,6 +243,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update URLs, metadata, and resources to reflect rebranding and migration to Zyneon Apex." />
-    <option name="LAST_COMMIT_MESSAGE" value="Update URLs, metadata, and resources to reflect rebranding and migration to Zyneon Apex." />
+    <MESSAGE value="Update deprecated references and configurations for rebranding to NEX App and migration to newer dependencies" />
+    <MESSAGE value="Adjust badge label and update workspace.xml with recent file reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust badge label and update workspace.xml with recent file reference" />
   </component>
 </project>
