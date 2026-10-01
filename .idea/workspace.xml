@@ -4,29 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eaacee0-ec5a-4ba2-a478-740c0d865789" name="Changes" comment="">
+    <list default="true" id="8eaacee0-ec5a-4ba2-a478-740c0d865789" name="Changes" comment="Update URLs, metadata, and resources to reflect rebranding and migration to Zyneon Apex.">
+      <change afterPath="$PROJECT_DIR$/application-main/src/deb/nex-app.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application-main/src/main/resources/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-main/src/deb/control/control" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/control/control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/ApplicationMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/application/utils/backend/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/application/utils/backend/Connector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/deb/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/deb/nexus-app.desktop" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/nexus-app.desktop" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/deb/updater.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/application-main/src/main/resources/content.zip" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/resources/content.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-main/src/main/resources/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/resources/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/shared.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/start.css" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/start.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/abstract.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/abstract.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/js/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/js/start.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-ui/content/instances.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/instances.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-ui/content/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/resources.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-ui/content/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/settings.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-ui/content/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/sub/installing.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/sub/installing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/sub/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/sub/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application-ui/content/sub/updating.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/sub/updating.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application-ui/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/news/news.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,61 +51,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.45403811636648805" />
-      <entry key="MS500" value="1.0800252434106838" />
-      <entry key="S2" value="2.0584078209426004" />
-      <entry key="S5" value="2.9457910207939015" />
-      <entry key="S10" value="4.19992354063337" />
-      <entry key="S30" value="7.039596901235736" />
-      <entry key="S60" value="13.256111199492022" />
-      <entry key="M2" value="28.836909499520754" />
-      <entry key="M5" value="58.643218417054136" />
-      <entry key="M10" value="93.33054524063921" />
-      <entry key="M15" value="124.58110103293899" />
-      <entry key="M30" value="190.67267662480444" />
-      <entry key="H1" value="251.46188197688326" />
-      <entry key="H2" value="293.7333032755083" />
-      <entry key="H4" value="318.8122908778139" />
-      <entry key="D1" value="342.06884837668474" />
-      <entry key="W1" value="346.2895976292934" />
+      <entry key="MS100" value="1.2483473260611215" />
+      <entry key="MS500" value="2.562814314633598" />
+      <entry key="S2" value="3.8413324846172356" />
+      <entry key="S5" value="4.75582666403437" />
+      <entry key="S10" value="5.349282459759955" />
+      <entry key="S30" value="7.584897516365077" />
+      <entry key="S60" value="10.987415506417534" />
+      <entry key="M2" value="16.31072556267333" />
+      <entry key="M5" value="32.470232632902295" />
+      <entry key="M10" value="70.84936515617342" />
+      <entry key="M15" value="111.04003403032794" />
+      <entry key="M30" value="207.74982813551014" />
+      <entry key="H1" value="312.292886387776" />
+      <entry key="H2" value="393.9302799298835" />
+      <entry key="H4" value="445.76841725719436" />
+      <entry key="D1" value="496.06386977852793" />
+      <entry key="W1" value="505.4186669615191" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.9596832153492414E-47" />
-      <entry key="MS500" value="4.629291138992835E-10" />
-      <entry key="S2" value="0.007316447047284418" />
-      <entry key="S5" value="0.2582132235441356" />
-      <entry key="S10" value="0.8736987723049896" />
-      <entry key="S30" value="2.1716640164639895" />
-      <entry key="S60" value="3.718393747788853" />
-      <entry key="M2" value="6.782709664793971" />
-      <entry key="M5" value="12.176247646365306" />
-      <entry key="M10" value="15.689619940617089" />
-      <entry key="M15" value="17.34842596398968" />
-      <entry key="M30" value="19.56750070568347" />
-      <entry key="H1" value="21.061644768793087" />
-      <entry key="H2" value="21.962165960561844" />
-      <entry key="H4" value="22.461890441167863" />
-      <entry key="D1" value="22.907455368928574" />
-      <entry key="W1" value="22.986706611030293" />
+      <entry key="MS100" value="6.456052611140537E-130" />
+      <entry key="MS500" value="1.4520895906140287E-26" />
+      <entry key="S2" value="3.4713495945908646E-7" />
+      <entry key="S5" value="0.0026073500493523907" />
+      <entry key="S10" value="0.051062217434737316" />
+      <entry key="S30" value="0.3709937966115693" />
+      <entry key="S60" value="0.6095729096329079" />
+      <entry key="M2" value="0.8225572535090356" />
+      <entry key="M5" value="1.8102986074676537" />
+      <entry key="M10" value="4.978044315987248" />
+      <entry key="M15" value="8.288140597999572" />
+      <entry key="M30" value="15.059460936995377" />
+      <entry key="H1" value="20.991763649967698" />
+      <entry key="H2" value="25.011378786313728" />
+      <entry key="H4" value="27.368612246869723" />
+      <entry key="D1" value="29.540835921254466" />
+      <entry key="W1" value="29.933878705711617" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.0098237609978695" />
-      <entry key="MS500" value="1.4845073766430066" />
-      <entry key="S2" value="2.6359237252187038" />
-      <entry key="S5" value="3.9199652118040964" />
-      <entry key="S10" value="5.857688389345756" />
-      <entry key="S30" value="10.082742555983751" />
-      <entry key="S60" value="17.860721358833406" />
-      <entry key="M2" value="36.51154196484702" />
-      <entry key="M5" value="71.74132721578995" />
-      <entry key="M10" value="109.96782415985716" />
-      <entry key="M15" value="142.88926811976057" />
-      <entry key="M30" value="211.21558722257444" />
-      <entry key="H1" value="273.5094577470748" />
-      <entry key="H2" value="316.68785575568205" />
-      <entry key="H4" value="342.27020776324" />
-      <entry key="D1" value="365.9756161410738" />
-      <entry key="W1" value="370.2762053597151" />
+      <entry key="MS100" value="1.1828024477768693" />
+      <entry key="MS500" value="2.536491882249534" />
+      <entry key="S2" value="3.8318383475522295" />
+      <entry key="S5" value="4.753796143661872" />
+      <entry key="S10" value="5.395599486571259" />
+      <entry key="S30" value="7.94887281436096" />
+      <entry key="S60" value="11.590927944514931" />
+      <entry key="M2" value="17.128447502069974" />
+      <entry key="M5" value="34.27189151637746" />
+      <entry key="M10" value="75.8108521816845" />
+      <entry key="M15" value="119.30834124610885" />
+      <entry key="M30" value="222.78978292198292" />
+      <entry key="H1" value="333.27033921961936" />
+      <entry key="H2" value="418.9328665638029" />
+      <entry key="H4" value="473.1321368984765" />
+      <entry key="D1" value="525.6038122637678" />
+      <entry key="W1" value="535.3524159923866" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,6 +120,8 @@
   "keyToString": {
     "Application.ApplicationMain.executor": "Run",
     "Application.run.executor": "Run",
+    "Maven.build & sign.executor": "Run",
+    "Maven.build.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -136,6 +132,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projekte/Java/nex-app-test/application-main/src/deb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -144,7 +141,7 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Maven.build &amp; sign">
     <configuration name="run" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.zyneonstudios.ApplicationMain" />
       <module name="application-main" />
@@ -163,6 +160,75 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
+    <configuration name="build &amp; sign" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="verify" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/application-main" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/application-main" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.run" />
+      <item itemvalue="Maven.build" />
+      <item itemvalue="Maven.build &amp; sign" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -184,5 +250,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update URLs, metadata, and resources to reflect rebranding and migration to Zyneon Apex." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update URLs, metadata, and resources to reflect rebranding and migration to Zyneon Apex." />
   </component>
 </project>

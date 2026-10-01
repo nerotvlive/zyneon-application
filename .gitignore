@@ -1,2 +1,4 @@
 # Project exclude paths
-/application-main/target/
+application-main/target/
+application-main/cert.pfx
+target/
