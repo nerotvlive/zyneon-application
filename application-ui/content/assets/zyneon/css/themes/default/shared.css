@@ -432,7 +432,6 @@ body {
 }
 
 .menu#submenu {
-    border-top-left-radius: 1.5rem !important;
     overflow-y: scroll;
     z-index: 99;
     background: var(--background2);

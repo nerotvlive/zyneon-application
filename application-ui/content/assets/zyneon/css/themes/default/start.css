@@ -4,7 +4,6 @@
 }
 
 .content {
-    border-top-left-radius: 1.5rem !important;
     background: var(--background);
 }
 
@@ -139,7 +138,6 @@
     right: -2.5rem;
     width: 32.3rem;
     height: 13rem;
-    border-top-left-radius: 1rem;
     border-bottom-left-radius: 1rem;
     color: var(--accent);
     background: var(--accent);

@@ -6,7 +6,7 @@
 
     <groupId>com.zyneonstudios</groupId>
     <artifactId>application-parent</artifactId>
-    <version>2025.5</version>
+    <version>1.6.0</version>
     <packaging>pom</packaging>
     <name>NEX App (Zyneon Application)</name>
 

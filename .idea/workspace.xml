@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8eaacee0-ec5a-4ba2-a478-740c0d865789" name="Changes" comment="" />
+    <list default="true" id="8eaacee0-ec5a-4ba2-a478-740c0d865789" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/deb/control/control" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/deb/control/control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/ApplicationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/ApplicationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/application/utils/backend/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/java/com/zyneonstudios/application/utils/backend/Connector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/main/resources/content.zip" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/resources/content.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-main/src/main/resources/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-main/src/main/resources/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/shared.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/start.css" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/css/themes/default/start.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/abstract.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/abstract.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/assets/zyneon/js/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/assets/zyneon/js/start.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/instances.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/instances.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/sub/installing.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/sub/installing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/sub/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/sub/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/content/sub/updating.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/content/sub/updating.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application-ui/news/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/application-ui/news/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,67 +39,79 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nerotvlive"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nerotvlive/zyneon-application.git",
+    "accountId": "9629e951-718c-494e-ac77-0092d3c22082"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.207334971355159" />
-      <entry key="MS500" value="1.880917403918874" />
-      <entry key="S2" value="3.3377649062197507" />
-      <entry key="S5" value="5.089795131214966" />
-      <entry key="S10" value="6.676055147521652" />
-      <entry key="S30" value="9.56717910490303" />
-      <entry key="S60" value="13.496870957155163" />
-      <entry key="M2" value="18.55489634899776" />
-      <entry key="M5" value="23.879536753525215" />
-      <entry key="M10" value="26.24823711741453" />
-      <entry key="M15" value="27.119910459791388" />
-      <entry key="M30" value="28.03635811454134" />
-      <entry key="H1" value="28.512123351136623" />
-      <entry key="H2" value="28.75452772807675" />
-      <entry key="H4" value="28.87687784470708" />
-      <entry key="D1" value="28.97942581064002" />
-      <entry key="W1" value="28.997059508971518" />
+      <entry key="MS100" value="0.45403811636648805" />
+      <entry key="MS500" value="1.0800252434106838" />
+      <entry key="S2" value="2.0584078209426004" />
+      <entry key="S5" value="2.9457910207939015" />
+      <entry key="S10" value="4.19992354063337" />
+      <entry key="S30" value="7.039596901235736" />
+      <entry key="S60" value="13.256111199492022" />
+      <entry key="M2" value="28.836909499520754" />
+      <entry key="M5" value="58.643218417054136" />
+      <entry key="M10" value="93.33054524063921" />
+      <entry key="M15" value="124.58110103293899" />
+      <entry key="M30" value="190.67267662480444" />
+      <entry key="H1" value="251.46188197688326" />
+      <entry key="H2" value="293.7333032755083" />
+      <entry key="H4" value="318.8122908778139" />
+      <entry key="D1" value="342.06884837668474" />
+      <entry key="W1" value="346.2895976292934" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.9596832153492414E-47" />
+      <entry key="MS500" value="4.629291138992835E-10" />
+      <entry key="S2" value="0.007316447047284418" />
+      <entry key="S5" value="0.2582132235441356" />
+      <entry key="S10" value="0.8736987723049896" />
+      <entry key="S30" value="2.1716640164639895" />
+      <entry key="S60" value="3.718393747788853" />
+      <entry key="M2" value="6.782709664793971" />
+      <entry key="M5" value="12.176247646365306" />
+      <entry key="M10" value="15.689619940617089" />
+      <entry key="M15" value="17.34842596398968" />
+      <entry key="M30" value="19.56750070568347" />
+      <entry key="H1" value="21.061644768793087" />
+      <entry key="H2" value="21.962165960561844" />
+      <entry key="H4" value="22.461890441167863" />
+      <entry key="D1" value="22.907455368928574" />
+      <entry key="W1" value="22.986706611030293" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9715843057078833" />
-      <entry key="MS500" value="1.7994821859068395" />
-      <entry key="S2" value="3.300597072750894" />
-      <entry key="S5" value="5.066636821309864" />
-      <entry key="S10" value="6.660574567268792" />
-      <entry key="S30" value="9.55953014371823" />
-      <entry key="S60" value="13.49129586202923" />
-      <entry key="M2" value="18.550992152977233" />
-      <entry key="M5" value="23.87751076152696" />
-      <entry key="M10" value="26.247121702204563" />
-      <entry key="M15" value="27.119141804075188" />
-      <entry key="M30" value="28.03596064321748" />
-      <entry key="H1" value="28.51192120828497" />
-      <entry key="H2" value="28.754425789239995" />
-      <entry key="H4" value="28.876826656455602" />
-      <entry key="D1" value="28.979417248701854" />
-      <entry key="W1" value="28.997058285086787" />
+      <entry key="MS100" value="1.0098237609978695" />
+      <entry key="MS500" value="1.4845073766430066" />
+      <entry key="S2" value="2.6359237252187038" />
+      <entry key="S5" value="3.9199652118040964" />
+      <entry key="S10" value="5.857688389345756" />
+      <entry key="S30" value="10.082742555983751" />
+      <entry key="S60" value="17.860721358833406" />
+      <entry key="M2" value="36.51154196484702" />
+      <entry key="M5" value="71.74132721578995" />
+      <entry key="M10" value="109.96782415985716" />
+      <entry key="M15" value="142.88926811976057" />
+      <entry key="M30" value="211.21558722257444" />
+      <entry key="H1" value="273.5094577470748" />
+      <entry key="H2" value="316.68785575568205" />
+      <entry key="H4" value="342.27020776324" />
+      <entry key="D1" value="365.9756161410738" />
+      <entry key="W1" value="370.2762053597151" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -90,6 +125,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ApplicationMain.executor": "Run",
+    "Application.run.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -109,6 +145,13 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.zyneonstudios.ApplicationMain" />
+      <module name="application-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="application-main" />
       <method v="2">

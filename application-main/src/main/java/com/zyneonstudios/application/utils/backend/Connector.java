@@ -1036,7 +1036,7 @@ public class Connector {
     private void thridPartyConfirm(String text, String button, String continueRequest) {
         if(Application.thirdPartyWarn) {
             if (text == null) {
-                text = "<h3>This is a third party resource!</h3><p>Nerofy assumes no liability for any problems or damage caused by third-party resources. We also do not offer help for third-party resources.</p>";
+                text = "<h3>This is a third party resource!</h3><p>Zyneon Apex assumes no liability for any problems or damage caused by third-party resources. We also do not offer help for third-party resources.</p>";
             }
             if (continueRequest == null) {
                 continueRequest = "unmessage();";

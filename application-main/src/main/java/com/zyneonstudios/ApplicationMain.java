@@ -87,7 +87,7 @@ public class ApplicationMain {
 
     public static String getDirectoryPath() {
         if (applicationPath == null) {
-            String folderName = "Nerofy/NEX App (Zyneon Application)";
+            String folderName = "Zyneon/Zyneon Application";
             String appData;
             String os = System.getProperty("os.name").toLowerCase();
             if (os.contains("win")) {

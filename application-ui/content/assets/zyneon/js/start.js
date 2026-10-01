@@ -24,7 +24,7 @@ function syncStart(response) {
                 const button = document.getElementById("app-button");
                 button.innerHTML = "<i class='bx bx-laptop ' ></i> Web version";
                 button.onclick = function () {
-                    openInBrowser("https://www.zyneonstudios.com/nexus/app");
+                    openInBrowser("https://nerotvlive.github.io/zyneon-application/application-ui/");
                 }
             }
         }
@@ -37,9 +37,9 @@ function syncStart(response) {
 function loadNews(bool) {
     if(bool!=null) {
         if(bool.toString().toLowerCase()==="true") {
-            document.getElementById("iframe").src = "https://nerotvlive.github.io/zyneon-application/news/news.html?theme="+theme+"&in_app=1";
+            document.getElementById("iframe").src = "https://nerotvlive.github.io/zyneon-application/application-ui/news/news.html?theme="+theme+"&in_app=1";
             return;
         }
     }
-    document.getElementById("iframe").src = "https://nerotvlive.github.io/zyneon-application/news/news.html?theme="+theme;
+    document.getElementById("iframe").src = "https://nerotvlive.github.io/zyneon-application/application-ui/news/news.html?theme="+theme;
 }

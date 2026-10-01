@@ -28,6 +28,14 @@
             </div>
             <a onclick="toggleMenu();"><i class="bx bx-menu" id="switch"></i></a>
             <ul>
+                <li id="start-button">
+                    <a onclick="link('start.html');">
+                        <div class="menu-item">
+                            <i class='bx bxs-home'></i>
+                            <span class="menu-item">Home</span>
+                        </div>
+                    </a>
+                </li>
                 <li id="resource-button">
                     <a onclick="link('resources.html');">
                         <div class="menu-item">
@@ -52,16 +60,8 @@
                         </div>
                     </a>
                 </li>
-                <li id="drive" style="display: block !important;">
-                    <a onclick="openInBrowser('https://wolkenspeicher.cloud');">
-                        <div class="menu-item">
-                            <i class='bx bxs-hdd'></i>
-                            <span class="menu-item">Wolkenspeicher</span>
-                        </div>
-                    </a>
-                </li>
                 <li id="download-button">
-                    <a href="https://nexus.nrfy.net/app" target="_blank">
+                    <a href="https://github.com/nerotvlive/zyneon-application/releases/latest" target="_blank">
                         <div class="menu-item">
                             <i class='bx bxs-download'></i>
                             <span class="menu-item">Download application</span>
@@ -76,7 +76,10 @@
                 <a onclick="link('settings.html?tab=profile');" id="loginlogout"><p>loading...</p></a>
             </div>
         </div>
-        <div class="menu" id="submenu">
+        <div style="display: flex; width: 100%; height: 100%; position: relative;">
+            <div onclick="openInBrowser('https://github.com/nerotvlive/nex-app');" style="position: absolute; top: 0; left: 0; width: 100%; background: #ff000080; color: white; z-index: 99999; padding: 0 1rem; cursor: pointer; backdrop-filter: blur(16px);">This app version is no longer supported, updated nor maintained (No Security Updates, no Bugfixes). Please download the new NEX App <strong style="color: deepskyblue;">here</strong>.</div>
+
+            <div class="menu" id="submenu">
             <ul>
                 <li class="subtitle">
                     <span class="bold">Library</span>
@@ -284,6 +287,7 @@
                 </div>
             </div>
         </div>
+            </div>
     </div>
 </body>
 <script src="assets/zyneon/js/instances.js"></script>

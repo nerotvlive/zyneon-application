@@ -6,11 +6,10 @@
     <parent>
         <groupId>com.zyneonstudios</groupId>
         <artifactId>application-parent</artifactId>
-        <version>2025.5</version>
+        <version>1.6.0</version>
     </parent>
 
     <artifactId>application-main</artifactId>
-    <version>2025.5</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -21,17 +20,17 @@
     <repositories>
         <repository>
             <id>nerofy-releases</id>
-            <name>Nerofy repository</name>
+            <name>Repository-r</name>
             <url>https://maven.nrfy.net/releases</url>
         </repository>
         <repository>
             <id>nerofy-snapshots</id>
-            <name>Nerofy repository</name>
+            <name>Repository-s</name>
             <url>https://maven.nrfy.net/snapshots</url>
         </repository>
         <repository>
             <id>nerofy-pivate</id>
-            <name>Nerofy repository</name>
+            <name>Repository-p</name>
             <url>https://maven.nrfy.net/private</url>
         </repository>
     </repositories>
