@@ -1,5 +1,5 @@
 [![Main branch](https://img.shields.io/badge/NEX_App_(4.0)-%2300000000.svg?style=for-the-badge)](https://github.com/nerotvlive/nex-app)
-[![Legacy branch](https://img.shields.io/badge/NEX_App_(Legacy/3.0)-%2300000000.svg?style=for-the-badge)](https://github.com/nerotvlive/nex-app/tree/legacy)
+[![Legacy branch](https://img.shields.io/badge/NEX_App_(Legacy/3.0)-%2300000000.svg?style=for-the-badge)](https://github.com/nerotvlive/nex-app-legacy)
 ![Zyneon Application repository (selected)](https://img.shields.io/badge/Zyneon_Application_(Old/1.0)-white.svg?style=for-the-badge)
 
 - - -
