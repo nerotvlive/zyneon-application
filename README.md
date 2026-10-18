@@ -17,8 +17,8 @@ by **Zyneon Apex**, a **Zyneon Studios** division
 The Zyneon Application allows you to create, launch, manage, download and share Minecraft instances and modpacks. It supports a variety of Minecraft versions and has integrations for CurseForge and Modrinth. Install shaders, mods, resource packs and much more in the Zyneon Application.
 <br><br>
 
-[![Download old app](https://img.shields.io/badge/Download_old_(this)_Zyneon_Application-blue.svg?style=for-the-badge)](https://github.com/nerotvlive/zyneon-applications/releases/latest)
-[![Download new app](https://img.shields.io/badge/Download_new_NEX_App-purple.svg?style=for-the-badge)](https://github.com/nerotvlive/nex-app/releases/latest)
+[![Download old app](https://img.shields.io/badge/Download_old_(this)_Zyneon_Application-blue.svg?style=for-the-badge)](https://github.com/nerotvlive/zyneon-application/releases/latest)
+[![Download new app (RECOMMENDED!)](https://img.shields.io/badge/Download_new_NEX_App-purple.svg?style=for-the-badge)](https://github.com/nerotvlive/nex-app/releases/latest)
 
 ---
 
